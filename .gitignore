@@ -41,3 +41,16 @@ app-example
 # generated native folders
 /ios
 /android
+
+# environment variables
+.env
+.env.local
+.env.*.local
+.env.example
+
+# Expo caches
+.expo
+.expo-shared
+
+# System
+.DS_Store
