@@ -1,3 +1,35 @@
+# CareerCraft - AI Career Roadmap Mobile App
+
+An Expo + React Native mobile app that helps students chart a personalized skill roadmap toward their dream career.
+
+---
+
+## Phase 1 Progress
+Environment setup complete  
+GitHub repo initialized  
+Project folders structured  
+Next: Set up project board & milestones
+
+---
+
+## Folder Overview
+- `src/screens` – app screens (Home, Roadmap, Dashboard, Profile)
+- `src/components` – reusable UI (NodeBubble, SkillModal, XPBar)
+- `src/api` – API placeholder files
+- `src/assets` – icons & images
+- `src/utils` – constants & helper functions
+- `src/styles` – theme, colors, typography
+
+---
+
+## Environment Variables
+Add your own `.env` file later following `.env.example`.
+
+---
+
+# Welcome to your Expo app 👋
+(This section below is kept from the default Expo template for reference.)
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
